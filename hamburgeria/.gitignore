@@ -1,0 +1,48 @@
+# ── Python / Flask ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+env/
+.env
+*.sqlite3
+
+# ── Flutter ──────────────────────────────────────────────────────
+flutter_totem/.dart_tool/
+flutter_totem/.flutter-plugins
+flutter_totem/.flutter-plugins-dependencies
+flutter_totem/.packages
+flutter_totem/build/
+flutter_totem/.idea/
+flutter_totem/*.iml
+flutter_totem/android/.gradle/
+flutter_totem/android/local.properties
+flutter_totem/android/key.properties
+flutter_totem/ios/Pods/
+flutter_totem/ios/.symlinks/
+flutter_totem/coverage/
+flutter_totem/pubspec.lock
+
+# ── Angular ──────────────────────────────────────────────────────
+angular_staff/node_modules/
+angular_staff/dist/
+angular_staff/.angular/
+angular_staff/.env
+angular_staff/src/environments/environment.prod.ts
+
+# ── Generici ─────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+.vscode/
+.idea/
+*.swp
+*.swo
